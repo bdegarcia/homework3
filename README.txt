@@ -1,1 +1,3 @@
 Here is a program that generates a completely random password, based on the user's input. With this code, there is the option to select number or characters, and what type of characters to use. It is set to generate random strings of 8-128 characters.
+
+How this is achieved is by putting in a string all the availabe characters, and then randomly selecting a character at a time in a loop, until the loop has run the requested number of times.
