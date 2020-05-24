@@ -1,1 +1,1 @@
-# homework3
+Here is a program that generates a completely random password, based on the user's input. With this code, there is the option to select number or characters, and what type of characters to use. It is set to generate random strings of 8-128 characters.
